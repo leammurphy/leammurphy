@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me: leam.a.murphy@gmail.com
+🌱 I’m currently learning _
+🤔 I’m looking to collaborate on anything! Just shoot me a message :)
+
