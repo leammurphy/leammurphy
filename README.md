@@ -13,7 +13,7 @@
   - 🏋️🧗🧘 health&wellness
   - 📚 Currently Reading: - Fiction: Vita Nostra - Non-fiction: Sapiens: A Brief History of Humankind
 
-## Languages and Tools
+## 🌱 Languages and Tools
 
 <div>
 	<code><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></code>
@@ -21,4 +21,14 @@
 	<code><img height="20" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"></code>
 	<code><img height="20" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white"></code>
 	<code><img height="20" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"></code>	
+</div>
+   
+<div>
+	<code><img height="20" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=white"></code>
+</div>
+<div>
+	<code><img height="20" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"></code>	
+</div>
+<div>
+	  <code><img height="20" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"></code>	<code><img height="20" src="https://img.shields.io/badge/-express-000000?style=flat&logo=express&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"></code>		
 </div>
