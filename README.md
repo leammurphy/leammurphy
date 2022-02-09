@@ -8,14 +8,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=leammurphy&show_icons=true&hide_border=true&theme=tokyonight">
 
-## 🧐 About
+## About
 
 - 🏢 Currently and Intern at CAP_CORP as a Full Stack Developer
 - 📫 How to reach me: leam.a.murphy@gmail.com
 - Other Hobbies
   - 📸 photograhy
-  - 🏋️🧗🧘 health&wellness enthusiast
-  - 📚 Currently Reading: - **Fiction:** Vita Nostra - **Non-fiction:** Sapiens: A Brief History of Humankind
+  - 🏋🧘 staying active
+  - 📚 currently reading: - **Fiction:** Vita Nostra - **Non-fiction:** Sapiens: A Brief History of Humankind
 
 ## 🌱 Languages and Tools
 
