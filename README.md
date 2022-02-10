@@ -1,4 +1,4 @@
-I'm [Leam](https://github.com/leammurphy)I'm a Full Stack Web Developer 👨‍💻 exploring the posibilities of tech.
+I'm [Leam](https://github.com/leammurphy) I'm a Full Stack Web Developer 👨‍💻 exploring the posibilities of tech.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leammurphy)
 
