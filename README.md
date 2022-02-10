@@ -8,7 +8,7 @@
 
 ## About
 
-- 🏢 Currently and Intern at CAP_CORP as a Full Stack Developer
+- 🏢 Currently and Intern at [CAP_CORP](https://capbraingain.com/) as a Full Stack Developer
 
 ### Other Hobbies
   - photograhy
