@@ -1,4 +1,4 @@
-# The name's [Leam](https://github.com/leammurphy). I'm a Full Stack Web Developer 👨‍💻 exploring the posibilities of tech.
+# Hey! I'm [Leam](https://github.com/leammurphy). I'm a Full Stack Web Developer 👨‍💻 exploring the posibilities of tech.
 
 
 
