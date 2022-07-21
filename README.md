@@ -10,11 +10,6 @@
 
 - 🏢 Currently working fulltime at [CAP_CORP](https://capbraingain.com/) as a Full Stack Developer. 
 
-### Other Hobbies
-  - photograhy
-  - staying active
-  - currently reading: - **Fiction:** Vita Nostra - **Non-fiction:** Sapiens: A Brief History of Humankind
-
 ## 🌱 Languages and Tools
 
 <div>
