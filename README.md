@@ -1,32 +1,91 @@
-# Hey! I'm [Leam](https://github.com/leammurphy). I'm a Full Stack Web Developer 👨‍💻 exploring the posibilities of tech.
+<h1>👨‍💻 Leam Murphy</h1>
 
+**`Tech Enthusiast`**
 
+I am a full-stack developer with experience working on projects through their lifecycle. I want to continue gaining experience developing meaningful products for clients. I have an interest in machine learning/A.I., with experience making chat-bots and image generation.
 
 [![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leam.a.murphy@gmail.com)](mailto:leam.a.murphy@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leammurphy/)](https://www.linkedin.com/in/leammurphy/) [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leammurphy)](https://github.com/leammurphy) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@leam.a.murphy)](https://medium.com/@leam.a.murphy) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leammurphy)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leammurphy&show_icons=true&hide_border=true&theme=tokyonight">
+---
 
-## About
-
-- 🏢 Currently working fulltime at [CAP_CORP](https://capbraingain.com/) as a Full Stack Developer. 
-
-## 🌱 Languages and Tools
+### 🧰 Languages and Tools
 
 <div>
-	<code><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></code>
-	<code><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"></code>
-	<code><img height="20" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"></code>
-	<code><img height="20" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white"></code>
-	<code><img height="20" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white"></code>	
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"  />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  />
+    </code>
 </div>
-   
 <div>
-	<code><img height="20" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=white"></code>
+	<code>
+		<img align-self-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    </code>
 </div>
+
 <div>
-	<code><img height="20" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"></code>	
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+    </code>
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"  />
+    </code>
+	<code>
+		<img height="20" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white">
+	</code> 
+	<code>
+		<img height="20" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white">
+	</code>		
 </div>
+
 <div>
-  <code><img height="20" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=Visual_Studio_Code&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-bitBucket-0052CC?style=flat&logo=BitBucket&logoColor=white"></code>
-  <code><img height="20" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white"></code> <code><img height="20" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"></code>		
+	<code>
+  		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+	</code> 
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+	</code> 
+	<code>
+		<img align-self="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg">
+	</code>
+
 </div>
+
+### 📊 Stats
+![chulad's stats](https://github-readme-stats.vercel.app/api?username=leammurphy&show_icons=true&hide_border=true&theme=gruvbox)
+
+
+<details closed>
+<summary>Hobbies</summary>
+	<h2>Photography</h2>
+	I shoot film photography on a <a href="https://medium.com/@leam.a.murphy/pursuing-a-deeper-appreciation-the-story-of-my-camera-602dbdf6084f">Pentax K1000</a>. 
+	I also take digital photography using a Sony a7. 
+	<h2>Books</h2>
+	I love to read. My current favorite genre is fantasy, though I do read a large variety. 
+	I am currently reading I Claudius by Robert Graves and Northanger Abbey by Jane Austen.
+	As far as coding goes, I am currently reading an Introduction to Algorithms and Data Structures.
+	<h2>Fitness</h2>
+	Health is wealth, so they say. I love to do activities like bouldering, as well as trying different fitness protocols. I am currently 4 months into a calisthenic workout plan.
+</details>
