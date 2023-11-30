@@ -42,9 +42,6 @@ I am a full-stack developer with experience working on projects through their li
 
 #
 
-### 📊 Stats
-![chulad's stats](https://github-readme-stats.vercel.app/api?username=leammurphy&show_icons=true&hide_border=true&theme=gruvbox)
-
 
 <details closed>
 <summary>Hobbies</summary>
